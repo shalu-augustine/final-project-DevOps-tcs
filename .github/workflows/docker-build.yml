@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: shaluaugustine/final-project-DevOps-tcs
+  IMAGE_NAME: shaluaugustine/final-project-devops-tcs
   REGISTRY: docker.io
 
 jobs:
